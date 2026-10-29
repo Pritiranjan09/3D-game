@@ -1,0 +1,8 @@
+{
+  "name": "Remix Snake, Water, Gun — Ultimate Edition",
+  "description": "An intense neon-arcade edition of the classic Snake, Water, Gun game with multiple modes, smart AI, match history, and rich sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
